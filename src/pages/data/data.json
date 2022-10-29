@@ -1,0 +1,52 @@
+{
+    "Proj": [
+        {
+            "id" : "0",
+            "year" : "2019 - present",
+            "title" : "This is a project name! Name wisely!",
+            "desc" : "Fill your project brief here. It can be the outcome of the project, or some success metrics, or a cheesy tagline.",
+            "img" : "assets/Placeholder.png"
+        },
+        {
+            "id" : "1",
+            "year" : "2019 - present",
+            "title" : "This is a project name! Name wisely!",
+            "desc" : "Fill your project brief here. It can be the outcome of the project, or some success metrics, or a cheesy tagline.",
+            "img" : "assets/Placeholder.png"
+        },
+        {
+            "id" : "2",
+            "year" : "2019 - present",
+            "title" : "This is a project name! Name wisely!",
+            "desc" : "Fill your project brief here. It can be the outcome of the project, or some success metrics, or a cheesy tagline.",
+            "img" : "assets/Placeholder.png"
+        },
+        {
+            "id" : "3",
+            "year" : "2019 - present",
+            "title" : "This is a project name! Name wisely!",
+            "desc" : "Fill your project brief here. It can be the outcome of the project, or some success metrics, or a cheesy tagline.",
+            "img" : "assets/Placeholder.png"
+        }
+    ], 
+    "Articles": [
+        {
+            "id" : "0",
+            "year" : "2019 - October",
+            "title" : "This is an article title",
+            "desc" : "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "id" : "1",
+            "year" : "2019 - October",
+            "title" : "This is an article title",
+            "desc" : "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+            "id" : "2",
+            "year" : "2019 - October",
+            "title" : "This is an article title",
+            "desc" : "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+    ]
+    }
