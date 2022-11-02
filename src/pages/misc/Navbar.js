@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className=" justify-between items-center w-full md:flex md:w-auto">
                 <ul className="flex flex-row p-4 mt-4 bg-white-50 rounded-lg md:flex-row md:space-x-8 md:mt-0 xl:text-base lg:text-md md:text-xs2 md:font-light md:bg-white  ">
                     <li>
-                        <a href="#" className="block py-2 pr-4 pl-3 text-gray-700">Unaivan</a>
+                        <a href="/" className="block py-2 pr-4 pl-3 text-gray-700 text-black font-bold">Unaivan</a>
                     </li>
                     <li>
                         <a href="#" className="block py-2 pr-4 pl-3 text-gray-700">Project</a>
@@ -16,7 +16,7 @@ export default function Navbar() {
                         <a href="#" className="block py-2 pr-4 pl-3 text-gray-700">About</a>
                     </li>
                     <li>
-                        <a href="#" className="block py-2 pr-4 pl-3 text-gray-700">Play</a>
+                        <a href="https://github.com/unaivan22/minimal-portfolio" className="block py-2 pr-4 pl-3 text-gray-700">Clone On Github</a>
                     </li>
                 </ul>
             </div>
